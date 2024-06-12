@@ -20,3 +20,8 @@ Suba o projeto em um repositório Git remoto e coloque o link da imagem que subi
 Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 
 Divirta-se!
+
+# Image
+
+Size: 1.21MB
+Link: [oliverdettenborn/fullcycle](https://hub.docker.com/repository/docker/oliverdettenborn/fullcycle/general)
